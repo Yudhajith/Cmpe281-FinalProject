@@ -1,0 +1,509 @@
+.Welcome-signup{
+  position: absolute;
+  top: 5px;
+  left: 50.5px;
+  height: 49px;
+  width: 252px;
+  font-family: 'Open Sans';
+  font-size: 36px;
+  font-weight: 600;
+  color: rgba(22, 117, 209, 1);
+  text-align: center;
+}
+
+.Signup-username{
+  position: absolute;
+  top: 22.47%;
+  left: 14%;
+  height: 12%;
+  width: 70.63%;
+  padding-left: 3%;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(155, 155, 155, 1);
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.Signup-email{
+  position: absolute;
+  top: 39%;
+  left: 14%;
+  height: 12%;
+  width: 70.63%;
+  padding-left: 3%;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(155, 155, 155, 1);
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.Signup-password{
+  position: absolute;
+  top: 55%;
+  left: 14%;
+  height: 12%;
+  width: 70.63%;
+  padding-left: 3%;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(155, 155, 155, 1);
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+
+.bgImg {
+  background-image: url('https://res.cloudinary.com/dtdb1rmrk/image/upload/v1533231512/temp.png');
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width:50%;
+  opacity:0.43;
+  background-size: 100% 100%;
+}
+.bgImgHome{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height:100%;
+  width:100%;
+}
+.cardoutline {
+  background-color: white;
+  position: absolute;
+  top: 24.7%;
+  left: 40%;
+  height: 30em;
+  width: 25em;
+  opacity:100;
+  box-shadow:0px 2px 8px #888888;
+}
+
+.real-signup-btn{
+  position: absolute;
+  top: 75%;
+  left: 45px;
+  height: 9%;
+  width: 75%;
+  background-color: rgba(255, 255, 255, 1);
+  border: 2px solid rgba(22, 117, 209, 1);
+  border-radius: 9px;
+}
+
+.Welcome{
+  position: absolute;
+  top: 100px;
+  left: 580px;
+  height: 49px;
+  width: 252px;
+  font-family: 'Open Sans';
+  font-size: 36px;
+  font-weight: 600;
+  color: rgba(22, 117, 209, 1);
+  text-align: center;
+}
+
+.emailbox{
+  position: absolute;
+  top: 115px;
+  left: 35px;
+  height: 50px;
+  width: 291px;
+  padding-left: 10px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(155, 155, 155, 1);
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.passwordbox{
+  position: absolute;
+  top: 200px;
+  left: 35px;
+  height: 50px;
+  width: 291px;
+  padding-left: 10px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(155, 155, 155, 1);
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.Login-btn{
+  position: absolute;
+  top: 290px;
+  left:80px;
+  height: 50px;
+  width: 180px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 2px solid rgba(22, 117, 209, 1);
+  border-radius: 9px;
+  font-family: 'Open Sans';
+  font-size: 20px;
+  font-weight: 600;
+  color: rgba(22, 117, 209, 1);
+}
+
+.Home-Signup-btn{
+position: absolute;
+top: 270px;
+left:80px;
+height: 50px;
+width: 180px;
+background-color: rgba(255, 255, 255, 1);
+border: 2px solid rgba(22, 117, 209, 1);
+border-radius: 9px;
+font-family: 'Open Sans';
+font-size: 20px;
+font-weight: 600;
+color: rgba(22, 117, 209, 1);
+}
+
+.Home-Login-btn{
+position: absolute;
+top: 340px;
+left:80px;
+height: 50px;
+width: 180px;
+background-color: rgba(255, 255, 255, 1);
+border: 2px solid rgba(22, 117, 209, 1);
+border-radius: 9px;
+font-family: 'Open Sans';
+font-size: 20px;
+font-weight: 600;
+color: rgba(22, 117, 209, 1);
+}
+
+.Logo-Welcome{
+position: absolute;
+top: 30px;
+left:90px;
+height: 140px;
+width: 150px;
+}
+.Home-project-name{
+    position: absolute;
+    top: 180px;
+    left:30px;
+    height: 140px;
+    width: 90%;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+    text-align: center;
+}
+
+.Topbar-userhome{
+position: absolute;
+top: 0%;
+left: 15%;
+height: 7%;
+width: 89.58%;
+background-color: rgba(22, 117, 209, 1);
+box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.5);
+}
+
+.Topbar-sidebar{
+height: 100%;
+width: 200px;
+position: fixed;
+z-index: 1;
+top: 0%;
+left: 0;
+background-color:orange;
+overflow-x: hidden;
+padding-top: 20px;
+}
+
+.Home-My-City{
+    position: absolute;
+    top: 250px;
+    left:10px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+
+.Home-DashBoard{
+    position: absolute;
+    top: 320px;
+    left:10px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+
+.Home-IOT-Management{
+    position: absolute;
+    top: 390px;
+    left:10px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+.Home-Energy-Usage{
+    position: absolute;
+    top: 460px;
+    left:10px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+
+.Home-Energy-Analysis{
+    position: absolute;
+    top: 530px;
+    left:10px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+.Topbar-userhome-title{
+    position: absolute;
+    top: 5px;
+    left:190px;
+    width: 90%;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: whitesmoke;
+    text-align: center;
+    z-index: 1;
+}
+
+.Home-Device-form{
+    position: absolute;
+    top: 100px;
+    left:250px;
+    width: 36%;
+    font-family: 'Open Sans';
+    font-weight: 600;
+}
+.Street_Name{
+    font-family: 'Open Sans';
+    font-size: 19px;
+    font-weight: 600;
+    color: orange;
+    text-align: center;
+}
+.Device-details{
+    position: absolute;
+    top: 55px;
+    left:250px;
+    width: 45%;
+    font-size: 20px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+.Device-search-btn{
+    position: absolute;
+    top: 340px;
+    left:250px;
+    height:40px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+
+.Device-info-table{
+    position: absolute;
+    top: 400px;
+    left:250px;
+}
+
+.Device-temperature-btn{
+    position: absolute;
+    top: 120px;
+    left:800px;
+    height:40px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid red;
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 600;
+    color: red;
+}
+.Device-Humidity-btn{
+    position: absolute;
+    top: 120px;
+    left:1000px;
+    height:40px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid orangered;
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 600;
+    color: orangered;
+}
+
+.temperature-data-logo{
+    position: absolute;
+    top: 190px;
+    left:800px;
+    height:180px;
+    width: 100px;
+}
+.Humidity-data-logo{
+    position: absolute;
+    top: 190px;
+    left:1000px;
+    height:190px;
+    width: 140px;
+}
+.temperature-data{
+    position: absolute;
+    top: 200px;
+    left:620px;
+    width: 45%;
+    font-size: 20px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    color: red;
+    text-align: center;
+}
+.Humidity-data{
+    position: absolute;
+    top: 200px;
+    left:820px;
+    width: 45%;
+    font-size: 20px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    color: dodgerblue;
+    text-align: center;
+}
+
+.cardoutline {
+    background-color: white;
+    position: absolute;
+    top: 24.7%;
+    left: 40%;
+    height: 30em;
+    width: 25em;
+    opacity:100;
+    box-shadow:0px 2px 8px #888888;
+}
+
+.Welcome-signup{
+    position: absolute;
+    top: 5px;
+    left: 50.5px;
+    height: 49px;
+    width: 252px;
+    font-family: 'Open Sans';
+    font-size: 36px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+    text-align: center;
+}
+
+.Signup-firstname{
+    position: absolute;
+    top: 17.67%;
+    left: 14%;
+    height: 9%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+
+.Signup-lastname{
+    position: absolute;
+    top: 29%;
+    left: 14%;
+    height: 9%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+
+.Signup-last{
+    position: absolute;
+    top: 42%;
+    left: 14%;
+    height: 9%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+
+.Signup-email{
+    position: absolute;
+    top: 41%;
+    left: 14%;
+    height: 9%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+
+.real-signup-btn{
+    position: absolute;
+    top: 90%;
+    left: 100px;
+    height: 9%;
+    width: 40%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+}
+
+.tabl{
+    left:10%;
+}
